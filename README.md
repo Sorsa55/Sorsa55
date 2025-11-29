@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello
 
-<!--
-**Sorsa55/Sorsa55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im finnish devolper and ICT-student.
 
-Here are some ideas to get you started:
+Beside studying im currently working on mobile app and small game.
+Ive also created lots of smaller scale projects for own use/privatly for learning purposes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently i have been using following tech:
+
+  -React and ReactNative(i am also learning angular in courses rn but not much experience yet).
+
+  -TS and JS.
+
+  -Supabase and also bit of firebase.
+
+  -Unity and C#.
+
+  -Some others...
+
+Best way to contact me is discord: sorsa5
+
+i also train a lot in gym, which may be related to my current project...
