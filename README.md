@@ -15,7 +15,7 @@ Currently i have been using following tech:
 
   -Unity and C#.
 
-  -Some others...
+  -Some others... (HTML, CSS, Tailwind...)
 
 Best way to contact me is discord: sorsa5
 
