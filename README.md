@@ -7,15 +7,16 @@ Ive also created lots of smaller scale projects for own use/privatly for learnin
 
 Currently i have been using following tech:
 
-  -React and ReactNative(i am also learning angular in courses rn but not much experience yet).
+  -React(Next.js) React Native and Angular
 
   -TS and JS.
 
-  -Supabase and also bit of firebase.
+  -Supabase (and also bit of firebase.)
 
   -Unity and C#.
 
-  -Some others... (HTML, CSS, Tailwind...)
+  -Some others... (HTML, CSS, Tailwind...),
+  you can find all from linkedin(Lauri Lindgren) -> Skills
 
 Best way to contact me is discord: sorsa5
 
