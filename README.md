@@ -7,7 +7,7 @@ Ive also created lots of smaller scale projects for own use/privatly for learnin
 
 Currently i have been using following tech:
 
-  -React(Next.js) React Native and Angular
+  -React React Native Angular NestJS NextJS... (React and Angular yes)
 
   -TS and JS.
 
