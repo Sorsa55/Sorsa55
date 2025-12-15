@@ -18,6 +18,7 @@ Currently i have been using following tech:
   -Some others... (HTML, CSS, Tailwind...),
   you can find all from linkedin(Lauri Lindgren) -> Skills
 
-Best way to contact me is discord: sorsa5
+Best way to contact me is discord: sorsa5 
+or linkedin in/lauri-lindgren-7b321930b
 
 i also train a lot in gym, which may be related to my current project...
