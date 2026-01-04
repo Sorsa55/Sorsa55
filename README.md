@@ -7,11 +7,11 @@ Ive also created lots of smaller scale projects for own use/privatly for learnin
 
 Currently i have been using following tech:
 
-  -React React Native Angular NestJS NextJS... (React and Angular yes)
+  -React React Native Angular NextJS... (React and Angular yes)
 
   -TS and JS.
 
-  -Supabase (and also bit of firebase.)
+  -Supabase and NestJS, RESTapi and GraphQL 
 
   -Unity and C#.
 
