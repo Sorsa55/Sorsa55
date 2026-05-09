@@ -2,7 +2,7 @@
 
 Im finnish devolper and ICT-student, currently working alone but open to join or do cooperations to learn more and devolp skills.
 
-Beside studying im currently working on mobile app and small game.
+Beside studying im currently working on mobile app.
 Ive also created lots of smaller scale projects for own use/privatly for learning purposes.
 
 Currently i have been using following tech:
