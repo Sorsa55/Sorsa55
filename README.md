@@ -9,9 +9,9 @@ Currently i have been using following tech:
 
   -React Native and NextJs + little bit of angular
 
-  -TS, JS, C#, Python, litle bit of C++
+  -TS, JS, C#, Python, litle bit of C++ and rust
 
-  -coolify+vps and NestJS, RESTapi and GraphQL 
+  -coolify+vps and NestJS, RESTapi, PrismaORM, Websocket etc.
 
   -Unity
 
