@@ -7,13 +7,13 @@ Ive also created lots of smaller scale projects for own use/privatly for learnin
 
 Currently i have been using following tech:
 
-  -React React Native Angular NextJS... (React and Angular yes)
+  -React Native and NextJs + little bit of angular
 
-  -TS and JS.
+  -TS, JS, C#, Python, litle bit of C++
 
   -coolify+vps and NestJS, RESTapi and GraphQL 
 
-  -Unity and C#.
+  -Unity
 
   -Some others... (HTML, CSS, Tailwind...),
   you can find all from linkedin(Lauri Lindgren) -> Skills
