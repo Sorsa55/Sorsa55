@@ -1,6 +1,6 @@
 ## Hello
 
-Im finnish devolper and ICT-student.
+Im finnish devolper and ICT-student, currently working alone but open to join or do cooperations.
 
 Beside studying im currently working on mobile app and small game.
 Ive also created lots of smaller scale projects for own use/privatly for learning purposes.
