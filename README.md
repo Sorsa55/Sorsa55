@@ -11,7 +11,7 @@ Currently i have been using following tech:
 
   -TS and JS.
 
-  -Supabase and NestJS, RESTapi and GraphQL 
+  -coolify+vps and NestJS, RESTapi and GraphQL 
 
   -Unity and C#.
 
