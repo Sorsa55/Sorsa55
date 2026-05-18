@@ -7,17 +7,17 @@ Ive also created lots of smaller scale projects for own use/privatly for learnin
 
 Currently i have been using following tech:
 
-  -React Native and NextJs + little bit of angular
+  -React Native and NextJs + little bit of Angular
 
   -TS, JS, C#, Python, litle bit of C++ and rust
 
   -coolify+vps.
 
-  -NestJS, Hono, RESTapi, GraphQL, PrismaORM, Websocket PostgreSQL, MySQL etc.
+  -NestJS, Hono, RESTapi, GraphQL, PrismaORM, Websocket etc.
 
-  -Unity
+  -PostgreSQL, MySQL, Redis cache...
 
-  -Some others... (HTML, CSS, Tailwind...),
+  -Some others... (HTML, CSS, Tailwind, Unity, Unrealengine...),
   you can find all from linkedin(Lauri Lindgren) -> Skills
 
 Best way to contact me is discord: sorsa5 
