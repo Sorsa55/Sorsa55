@@ -13,7 +13,7 @@ Currently i have been using following tech:
 
   -coolify+vps.
 
-  -NestJS, Hono, RESTapi, GraphQL, PrismaORM, Websocket etc
+  -NestJS, Hono, RESTapi, GraphQL, PrismaORM, Websocket PostgreSQL, MySQL etc.
 
   -Unity
 
