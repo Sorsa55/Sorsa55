@@ -11,7 +11,9 @@ Currently i have been using following tech:
 
   -TS, JS, C#, Python, litle bit of C++ and rust
 
-  -coolify+vps and NestJS, RESTapi, PrismaORM, Websocket etc.
+  -coolify+vps.
+
+  -NestJS, Hono, RESTapi, GraphQL, PrismaORM, Websocket etc
 
   -Unity
 
