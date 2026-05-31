@@ -20,7 +20,9 @@ Currently i have been using following tech:
   -Some others... (HTML, CSS, Tailwind, Unity, Unrealengine...),
   you can find all from linkedin(Lauri Lindgren) -> Skills
 
-Best way to contact me is discord: sorsa5 
+Best way to contact me is
+email: Laurilindgren03@outlook.com
+discord: sorsa5 
 or linkedin in/lauri-lindgren-7b321930b
 
 i also train a lot in gym, related to project planed to be out in june or july 2026
