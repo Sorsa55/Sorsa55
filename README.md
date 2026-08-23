@@ -1,8 +1,9 @@
 ## Hello
 
 Im finnish devolper and ICT-student, currently working alone but open to join or do cooperations to learn more and devolp skills.
+Ive so far learned baisicly all around fullstack devolper skills.
 
-Beside studying im currently working on mobile app, and working for Lyniti.com, currently for marketing and ideas, soon for more...
+Beside studying im currently working on mobile app, and working for Lyniti as mobile and backend devolper.
 Ive also created lots of smaller scale projects for own use/privatly for learning purposes.
 
 Currently i have been using following tech:
