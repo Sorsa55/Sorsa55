@@ -26,4 +26,4 @@ email: Laurilindgren03@outlook.com
 discord: sorsa5 
 or linkedin in/lauri-lindgren-7b321930b
 
-i also train a lot in gym, related to project planed to be out in june or july 2026
+i also train a lot in gym, related to project planed to be out in 1st or 2nd quarter of 2027
