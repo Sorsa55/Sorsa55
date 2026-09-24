@@ -10,7 +10,9 @@ Currently i have been using following tech:
 
   -React Native and NextJs + little bit of Angular
 
-  -TS, JS, C#, Python, litle bit of C++ and rust
+  -Godot
+
+  -TS, JS, C++, C#, Python, litle bit of rust
 
   -coolify+vps.
 
